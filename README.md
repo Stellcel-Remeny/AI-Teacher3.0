@@ -28,3 +28,7 @@ git clone https://github.com/yourusername/renemy-ai.git
 cd renemy-ai
 pip install flask
 python main.py
+
+---
+
+It may take some time , its under development , Thank you . 
